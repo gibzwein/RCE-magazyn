@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+secrets.h
+secrets.local.h
+*.secrets.h
+credentials.h
+*.local.h
+build/
+*.bin
+*.elf
+*.map
